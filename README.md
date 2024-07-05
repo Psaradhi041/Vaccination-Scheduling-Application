@@ -1,2 +1,2 @@
 # Vaccination-Scheduling-Application
-Author - Partha Saradhi
+Author - K Partha Saradhi
